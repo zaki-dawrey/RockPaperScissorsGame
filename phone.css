@@ -1,0 +1,23 @@
+.intro button, .match button{
+    width: 90px;
+    font-size: 17px;
+}
+
+.hands img{
+    width: 200px;
+    padding: 2px 5px;
+    height: auto;
+}
+
+.intro h1{
+    font-size: 28px;
+}
+
+.match h2{
+        font-size: 28px;
+}
+
+section{
+    background: url('./bg.jpg') no-repeat center center/cover;
+}
+
